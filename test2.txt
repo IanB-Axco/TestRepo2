@@ -4,3 +4,4 @@ test
 test
 first new line
 another new line
+master new line
